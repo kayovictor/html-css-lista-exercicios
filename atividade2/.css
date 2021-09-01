@@ -1,0 +1,42 @@
+
+h3 {
+    border-bottom: solid black 2px;
+    width: 75vw;
+    color: blue;
+    margin: 5px 0 15px 130px;
+}
+
+table, th, td {
+    border: 2px ridge rgb(224, 224, 224);
+}
+
+.gray {
+    background-color: rgb(214, 214, 214);
+}
+
+th, td {
+    width: 180px;
+}
+
+.numero {
+    color: green;
+    text-align: center;
+}
+
+.baixo {
+    color: red;
+    text-align: center;
+}
+
+.nome {
+    font-style: italic;
+}
+
+.ital {
+    font-style: italic;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
